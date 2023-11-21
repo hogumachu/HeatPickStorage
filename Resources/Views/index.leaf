@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-
   <title>#(title)</title>
 </head>
 
 <body>
   <h1>#(title)</h1>
+  <a href="itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/hogumachu/HeatPickStorage/master/Public/Manifest/manifest1.plist">Download</a>
 </body>
 </html>
